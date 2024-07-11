@@ -41,7 +41,9 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: transparent;
+    /* background: transparent; */
+
+    background: #1067cc;
     /* padding: 30px 18%; */
 
     padding: 60px;
@@ -504,7 +506,7 @@ header .sticky {
 
 }
 
-#Contact {
+#contact {
 
 
     background: var(--main-color);
